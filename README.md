@@ -5,7 +5,7 @@
 
 ### AI & Computer Vision • Robotics • Web Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Exploring+AI+%26+Computer+Vision;Experimenting+with+Robotics;Learning+something+new+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Exploring+AI+%26+Computer+Vision;Experimenting+with+Robotics;Learning+something+new+every+day" />
 
 <br>
 
